@@ -1,0 +1,11 @@
+.title { padding: 10px;
+         color: grey; }
+ 
+ img { width: 100%; }
+
+ .content{ padding: 15px; }
+
+.para { padding:10px;
+        color:grey;
+        font-size: 18px;
+        text-align: justify; }
